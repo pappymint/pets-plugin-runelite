@@ -1,5 +1,5 @@
 # PappyPets
-Runelite Plugin that enhances the pet owner experience in Old School Runescape.
+Runelite Plugin that allows you to name your pets in Old School Runescape.
 
 ## Feature goals
 - Set names for each of your pets
